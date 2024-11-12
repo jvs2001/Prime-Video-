@@ -1,0 +1,35 @@
+.material-symbols-outlined {
+   color: var(--claro);
+
+  }
+
+header{
+    background-color: var(--escuro-medio);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    gap: 2rem;
+    height: 7.5em;
+    
+}
+
+header > nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+header > nav > img {
+    height: 3rem;
+}
+
+header > nav > a{
+    color: var(--claro);
+    padding: 1rem;
+    text-decoration: none;
+} 
+
+header > img{
+    height: 3rem;
+}
