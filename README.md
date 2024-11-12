@@ -8,7 +8,7 @@ O intuito deste repositório é melhorar as técinas do HTML e CSS, no exposto, 
 
 <div align=center>
     
-[Acesse aqui](https://github.com/jvs2001/Prime-Video-)
+[Acesse aqui](jvs2001.github.io/Prime-Video-/)
 </div>
 
 ## Site proposto: Prime Video
