@@ -8,7 +8,7 @@ O intuito deste repositório é melhorar as técinas do HTML e CSS, no exposto, 
 
 <div align=center>
     
-[Acesse aqui](https://guime777.github.io/Replica-Prime-Video/)
+[Acesse aqui](https://github.com/jvs2001/Prime-Video-)
 </div>
 
 ## Site proposto: Prime Video
